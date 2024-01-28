@@ -13,6 +13,7 @@ After I graduate, I'm interested in working in local government (Allegheny Count
 
 ### Visualizing government debt using Tableau
 [OECD Data](/DataViz2.md)
+<iframe src="https://data.oecd.org/chart/7kkR" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/7kkR" target="_blank">OECD Chart: General government debt, Total, % of GDP, 2021</a></iframe>
 
 ### Assignment 3 & 4
 
