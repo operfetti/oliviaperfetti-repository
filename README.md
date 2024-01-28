@@ -12,7 +12,7 @@ After I graduate, I'm interested in working in local government (Allegheny Count
 ## Portfolio
 
 ### Visualizing government debt using Tableau
-[sometexthere](/DataViz2.md)
+[OECD Data](/DataViz2.md)
 
 ### Assignment 3 & 4
 
