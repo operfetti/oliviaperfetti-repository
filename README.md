@@ -11,8 +11,7 @@ After I graduate, I'm interested in working in local government (Allegheny Count
 
 ## Portfolio
 
-### Visualizing government debt
-[OECD Data](DataViz3.md)
+### [Visualizing Government Debt with OECD Data](DataViz3.md)
 
 ### Assignment 3 & 4
 
