@@ -1,4 +1,5 @@
 # Visualizing Government Debt with OECD Data
+This page includes three data visualizations displaying data on government debt from the Office of Economic and Community Development (OECD). The general government debt-to-GDP ratio measures the gross debt of the general government as a percentage of GDP. More information and the data itself can be found at the link below.
 
 ## Using web-based visualization:
 
@@ -21,3 +22,8 @@
   var divElement = document.getElementById('viz1706568460930');                    
   var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    
   var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
+
+### What the data tells us
+The heat map is most effective in showing us a country comparison of debt levels. In this visualization, our eyes are drawn to the "hot" (orange) part of the map, where we see the highest debt levels. We can see that Japan, Greece and Italy have some of the highest debt levels. We can also look at debt levels across a fairly large time frame (from 1995 to 2022) by scrolling. All in all, this visualization is most useful if we wanted to compare all countries' debt levels over time.
+
+The line graph is a better visualization for viewing one country's debt level in comparison to other countries over a smaller time period. In this case, I wanted to show how U.S. debt levels changed over the course of the COVID-19 pandemic. U.S. data is highlighted in red to make it stand out against the backdrop of gray lines, which give a general sense of where other countries lie in comparison (but country-specific data is lacking). The average calculation helps the reader see that U.S. debt is higher than the average of all countries (but still not the highest). The three labels across U.S. data are also meant to show the percentage point change in debt across the time period. If I had more time, I would have (1) labeled a few other countries to show the highest and lowest debt levels, (2) labeled the USA line with "U.S." instead of in the legend, (3) truncated the average line so it fits in the graph, and (4) added a vertical line at the year 2020 to signify the rough starting point of the pandemic.
