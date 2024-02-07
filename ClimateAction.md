@@ -92,14 +92,16 @@ Anyone interested in climate change who can read a graph.
 **- Is there anything you would change or do differently?**
 I don't like having to click on a quesiton mark. I would label the lines in different colors or numbers and just put the explanaiton below. You sort of did that but didn't actually label the lines #'s 1-4. However, it was easy to understand anyway.
 
-## My proposed revised version
+## My final revision
 
+### Initial thoughts on the feedback
 A few thought I had from that feedback: It seems like the message I want to send is getting through. It also seems like the places in the graph drawing attention are (1) the upper left quadrant, which is where the y-axis label is, and (2) the colorful part of the chart. That's mostly a good thing, but I also want to draw attention to the title, which tells a better story than the y-axis. I think it would help to take out the "MtCo2e" which seems confusing. I agree with the suggestion of making the X-axis more accurately reflect time.
 
 I'm not sure whether to implement the feedback concerning including the descriptions as explanations, instead of having them as (?) icons that you can hover over. I am reluctant to crowd with text, but I agree that making the viewer hover could just add more work-- or it could be hard to understand.
 
 The hardest part is striking a balance of including information that might be interesting (normal/healthy emissions levels, and info on the Paris Climate Accords) versus what's necessary to understand the core message. In this case, I think I would opt for including some of this extra information in the overview.
 
+### Incorporated feedback
 ![image](https://github.com/operfetti/oliviaperfetti-repository/assets/157427926/b0941a95-665a-4cec-ae2b-9792a1579497)
 
 In the end, I opted to take out the emissions labels (the numbers mean very little to the average person), change the title to tell a better story, make the x-axis more accurate, and move the text away from the graph while removing the (?) icons. The [more info link] placeholders, if clicked on, would open a sidebar with more information on the data and how the projections were made.
