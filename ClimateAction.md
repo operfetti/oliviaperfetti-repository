@@ -88,5 +88,5 @@ I am not sure what the "Mt" is in "MtCo2e" per year. I also note the space on yo
 **- Who do you think is the intended audience for this?**
 Anyone interested in climate change who can read a graph.
 
-**- Is there anything you would change or do differently? **
+**- Is there anything you would change or do differently?**
 I don't like having to click on a quesiton mark. I would label the lines in different colors or numbers and just put the explanaiton below. You sort of did that but didn't actually label the lines #'s 1-4. However, it was easy to understand anyway.
