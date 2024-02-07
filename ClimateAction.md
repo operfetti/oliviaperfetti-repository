@@ -76,7 +76,7 @@ Because of a lack of definitions, I would imagine that the intended audience for
 If the audience is, in fact, laypeople, I would add brief descriptions of climate-specific terms as outlined in the previous question. Additionally, as a viewer, I am curious about what normal/healthy levels of emissions are; I know the historical data doesn't capture this, as the U.S. has always been a big polluter. That said, comparative data to other countries, for example, could be too much information in one visualization. I love the way you have represented the data as is!
 
 ### Feedback 2: Brought to you by a middle-aged, highly educated professional-- but one with little policy expertise.
-- Can you tell me your main takeaway from this graph?
+**- Can you tell me your main takeaway from this graph?**
 Action is needed to reduce emissions, and one can compare outcomes based on different actions.
 
 **- Where was your eye drawn first in this graph?**
