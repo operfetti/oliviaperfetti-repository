@@ -34,17 +34,12 @@ Because of the complexity of the visualization and how many details were include
 ### Suggestions
 
 For Visualization 1 (Global Map), my suggestions are to:
-
 (1) Make the language "1.5 C Paris Agreement Compatible" simpler
-
 (2) Change the color scale so that the "critically insufficient" category is a dark red (signifying the "worst" level-- right now the dark gray seems like there could be no data for those countries)
-
 (3) Explain what "Assessments of Aviation/Shipping" means
 
 For Visualization 2 (Country Profile), the most important things are to:
-
 (1) Simplify all the language
-
 (2) Focus on just one of either "modelled domestic pathways" or "fair share" (the audience could scroll to see the other one, but it's too much to see at once)
 
 ### Final thoughts
@@ -56,6 +51,39 @@ Here's my first stab at a revised visualization for the Country Profile for USA:
 
 ![image](https://github.com/operfetti/oliviaperfetti-repository/assets/157427926/72bc98c5-aff9-46be-84a7-bfbb9ec9d926)
 
-
 I started by making a list of the bare minimum of things that I wanted to keep in the visualization. These were the overall message (USA insufficient/ not doing enough on climate change) and the 4 categories showing different pathways. I also wanted to include the information necessary to make it complete without crowding the visualization with too many words.
 
+Next, I got some helpful feedback from two friends. Here they are:
+
+### Feedback 1: Brought to you by a 25 year old young professional with expertise in public policy.
+
+- Can you tell me your main takeaway from this graph?
+The U.S. needs to take new and drastic action regarding its emission rate to alter the trajectory of climate change.
+
+- Where was your eye drawn first in this graph?
+My eye was first drawn to the four colored lines in the forked pattern at the end of the graph.
+
+- Is there anything you find surprising or confusing?
+Given historical records of mild decreases over time, I find it surprising that post-2023, business as usual would cause a drastic increase in emissions. Additionally, I'm surprised at the relatively small amount of (might not be the right term?) emissions needed to set the U.S. on track to 'undo' past emissions.
+
+- Who do you think is the intended audience for this?
+Because of a lack of definitions, I would imagine that the intended audience for this graph is people who are already familiar with climate change and have an interest in taking action against high emissions. For example, a layperson may not know the "1.5 degree C goal" or the Paris Climate Accords. 
+
+- Is there anything you would change or do differently?
+If the audience is, in fact, laypeople, I would add brief descriptions of climate-specific terms as outlined in the previous question. Additionally, as a viewer, I am curious about what normal/healthy levels of emissions are; I know the historical data doesn't capture this, as the U.S. has always been a big polluter. That said, comparative data to other countries, for example, could be too much information in one visualization. I love the way you have represented the data as is!
+
+### Feedback 2: Brought to you by a middle-aged, highly educated professional-- but one with little policy expertise.
+- Can you tell me your main takeaway from this graph?
+Action is needed to reduce emissions, and one can compare outcomes based on different actions.
+
+- Where was your eye drawn first in this graph?
+Y axis to see what we are measuring,
+
+- Is there anything you find surprising or confusing?
+I am not sure what the "Mt" is in "MtCo2e" per year. I also note the space on your X-axis between 1990-2023 and 2023-2030 is not consistent. I htink you indicated this with the dotted line but I believe the usual notation is two slashed lines along the X-axis. I could be wrong about that.
+
+- Who do you think is the intended audience for this?
+Anyone interested in climate change who can read a graph.
+
+- Is there anything you would change or do differently? 
+I don't like having to click on a quesiton mark. I would label the lines in different colors or numbers and just put the explanaiton below. You sort of did that but didn't actually label the lines #'s 1-4. However, it was easy to understand anyway.
