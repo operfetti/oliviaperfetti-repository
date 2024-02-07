@@ -103,3 +103,5 @@ The hardest part is striking a balance of including information that might be in
 ![image](https://github.com/operfetti/oliviaperfetti-repository/assets/157427926/b0941a95-665a-4cec-ae2b-9792a1579497)
 
 In the end, I opted to take out the emissions labels (the numbers mean very little to the average person), change the title to tell a better story, make the x-axis more accurate, and move the text away from the graph while removing the (?) icons. The [more info link] placeholders, if clicked on, would open a sidebar with more information on the data and how the projections were made.
+
+Thanks for reading!
