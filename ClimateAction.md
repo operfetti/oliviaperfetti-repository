@@ -68,6 +68,7 @@ My eye was first drawn to the four colored lines in the forked pattern at the en
 
 **- Is there anything you find surprising or confusing?**
 Given historical records of mild decreases over time, I find it surprising that post-2023, business as usual would cause a drastic increase in emissions. Additionally, I'm surprised at the relatively small amount of (might not be the right term?) emissions needed to set the U.S. on track to 'undo' past emissions.
+(Note from me: Because the original visualization was so difficult to understand, I'm not entirely sure that I replicated it properly-- so take this with a grain of salt)
 
 **- Who do you think is the intended audience for this?**
 Because of a lack of definitions, I would imagine that the intended audience for this graph is people who are already familiar with climate change and have an interest in taking action against high emissions. For example, a layperson may not know the "1.5 degree C goal" or the Paris Climate Accords. 
@@ -80,7 +81,7 @@ If the audience is, in fact, laypeople, I would add brief descriptions of climat
 Action is needed to reduce emissions, and one can compare outcomes based on different actions.
 
 **- Where was your eye drawn first in this graph?**
-Y axis to see what we are measuring,
+Y axis to see what we are measuring.
 
 **- Is there anything you find surprising or confusing?**
 I am not sure what the "Mt" is in "MtCo2e" per year. I also note the space on your X-axis between 1990-2023 and 2023-2030 is not consistent. I htink you indicated this with the dotted line but I believe the usual notation is two slashed lines along the X-axis. I could be wrong about that.
@@ -90,3 +91,12 @@ Anyone interested in climate change who can read a graph.
 
 **- Is there anything you would change or do differently?**
 I don't like having to click on a quesiton mark. I would label the lines in different colors or numbers and just put the explanaiton below. You sort of did that but didn't actually label the lines #'s 1-4. However, it was easy to understand anyway.
+
+## My proposed revised version
+
+A few thought I had from that feedback: It seems like the message I want to send is getting through. It also seems like the places in the graph drawing attention are (1) the upper left quadrant, which is where the y-axis label is, and (2) the colorful part of the chart. That's mostly a good thing, but I also want to draw attention to the title, which tells a better story than the y-axis. I think it would help to take out the "MtCo2e" which seems confusing. I agree with the suggestion of making the X-axis more accurately reflect time.
+
+I'm not sure whether to implement the feedback concerning including the descriptions as explanations, instead of having them as (?) icons that you can hover over. I am reluctant to crowd with text, but I agree that making the viewer hover could just add more work-- or it could be hard to understand.
+
+The hardest part is striking a balance of including information that might be interesting (normal/healthy emissions levels, and info on the Paris Climate Accords) versus what's necessary to understand the core message. In this case, I think I would opt for including some of this extra information in the overview.
+
