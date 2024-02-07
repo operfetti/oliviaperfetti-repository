@@ -34,12 +34,17 @@ Because of the complexity of the visualization and how many details were include
 ### Suggestions
 
 For Visualization 1 (Global Map), my suggestions are to:
+
 (1) Make the language "1.5 C Paris Agreement Compatible" simpler
+
 (2) Change the color scale so that the "critically insufficient" category is a dark red (signifying the "worst" level-- right now the dark gray seems like there could be no data for those countries)
+
 (3) Explain what "Assessments of Aviation/Shipping" means
 
 For Visualization 2 (Country Profile), the most important things are to:
+
 (1) Simplify all the language
+
 (2) Focus on just one of either "modelled domestic pathways" or "fair share" (the audience could scroll to see the other one, but it's too much to see at once)
 
 ### Final thoughts
@@ -48,7 +53,9 @@ Overall, I think that this method was very helpful for evaluating the data visua
 ## My initial revision
 
 Here's my first stab at a revised visualization for the Country Profile for USA:
-[2024-02-06 16-48 1 (1).pdf](https://github.com/operfetti/oliviaperfetti-repository/files/14188104/2024-02-06.16-48.1.1.pdf)
+
+![image](https://github.com/operfetti/oliviaperfetti-repository/assets/157427926/72bc98c5-aff9-46be-84a7-bfbb9ec9d926)
+
 
 I started by making a list of the bare minimum of things that I wanted to keep in the visualization. These were the overall message (USA insufficient/ not doing enough on climate change) and the 4 categories showing different pathways. I also wanted to include the information necessary to make it complete without crowding the visualization with too many words.
 
