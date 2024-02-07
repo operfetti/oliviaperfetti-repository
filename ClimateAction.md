@@ -3,8 +3,10 @@
 I chose to critique a Climate Action Tracker visualization because I believe that climate change is one of the most urgent problems facing our global community, and the United States has had an outsized impact on greenhouse gas emissions. Historically, scientists have done a bad job of imparting information about climate change to the general public. The visualization can be found at https://climateactiontracker.org/countries/usa/
 
 ## Here is the original Climate Action Tracker:
+Visualization 1 (Global Map)
 ![image](https://github.com/operfetti/oliviaperfetti-repository/assets/157427926/338ac833-0d89-48ff-8255-36fff402baf9)
 
+Visualization 2 (Country Profile)
 ![image](https://github.com/operfetti/oliviaperfetti-repository/assets/157427926/de3bafdb-beeb-4056-b426-923f08857cca)
 
 ## My critique
