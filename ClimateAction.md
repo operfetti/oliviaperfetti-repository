@@ -14,11 +14,7 @@ Visualization 2 (Country Profile)
 
 ## My critique
 
-I evaluated the visualization using Stephen Few's Data Visualization Effectiveness Profile (Perceptual Edge, 2017). Few recommends using seven criteria: 
-
-Is it informative? (Usefulness, Completeness, Perceptibility, Truthfulness, Intuitiveness)
-
-Is it emotive? (Aesthetics, Engagement)
+I evaluated the visualization using Stephen Few's Data Visualization Effectiveness Profile (Perceptual Edge, 2017). Few recommends using seven criteria: First, is it informative? (Usefulness, Completeness, Perceptibility, Truthfulness, Intuitiveness). Second, is it emotive? (Aesthetics, Engagement)
 
  Here were some of my initial thoughts:
 
