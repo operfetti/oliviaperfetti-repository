@@ -21,7 +21,7 @@ Conflict:
 
 Resolution:
 - But will it solve climate change?
-- Show methane emissions
+- Show increase in nationwide methane emissions
 - Studies showing equal if not greater climate impact to coal-fired power plants
 - (Possibly: Add polling showing support for fracking is decreasing?)
 - Add success stories of local communities who have shut down proposed fracking
