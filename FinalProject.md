@@ -47,7 +47,7 @@ Call to action:
 
 I plan to use these mainly as attention grabbers to show the audience what types of stories have been in the mainstream and what kind of concerns residents have. For each, I would include a brief write-up in the side pane giving the highlights of the news story.
 - [43rd Statewide Grand Jury Finds Pennsylvania Failed To Protect Citizens During Fracking Boom – PA Office of Attorney General]([url](https://www.attorneygeneral.gov/taking-action/43rd-statewid))
-- [A Pennsylvania study suggests links between fracking and asthma, lymphoma in children | AP News]([url](https://apnews.com/article/fracking-pennsylvania-health-environm))
+- [A Pennsylvania study suggests links between fracking and asthma, lymphoma in children]([url]([https://apnews.com/article/fracking-pennsylvania-health-environm](https://apnews.com/article/fracking-pennsylvania-health-environment-research-79dd7cfb9b3799e628b0c3667f30dcc4)))
 - [New Investigation Finds Fracking Chemicals in the Bodies of People in Southwestern Pa.]([url](https://www.alleghenyfront.org/new-investigation-finds-exposure)) - The Allegheny Front
 
 ### _Possible Media Sources_
