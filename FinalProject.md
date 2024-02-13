@@ -16,7 +16,7 @@ Set-up:
 Conflict:
 - Describe growing evidence linking fracking to health problems (Pitt study)
 - Show growing number of wells in PA (until present year)
-- Show violations of wells
+- Show # of violations at wells
 - Show Grand Jury report
 
 Resolution:
