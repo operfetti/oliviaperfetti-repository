@@ -9,7 +9,7 @@ For my final project, I want to tell the story of fracking in Southwestern Penns
 ### _Story Structure_
 
 Set-up: 
-- Fracking was hailed as a cleaner energy source– as a solution to climate change and air pollution
+- Fracking was hailed as a cleaner energy source– and as a solution to climate change and air pollution
 - Show growth in wells from first few years
 - Meanwhile: Man in Washington County gives his 3-year-old son a bath. The son emerges from the bathtub with chemical-grade burns
 
