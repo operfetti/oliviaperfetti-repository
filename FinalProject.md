@@ -3,10 +3,10 @@
 
 ## Outline
 
-### Summary
+### _Summary_
 For my final project, I want to tell the story of fracking in Southwestern Pennsylvania– in particular its harm to our health and climate. Since the “fracking boom” in 2005-2007, hundreds of thousands unconventional (fracking) wells have been drilled in the region, which have racked up more than 70,000 violations.  In 2020, former Attorney General Josh Shapiro issued a Grand Jury report that uncovered systematic failure by Pennsylvania government agencies in overseeing the fracking industry and protecting residents from industry operations. Concerns over the health impacts of fracking have continued to increase. More recently, the University of Pittsburgh released a study examining a possible link between fracking and a cluster of childhood cancer cases in SWPA. The researchers found moderate evidence that overall unconventional natural gas drilling (UNGD) is associated with childhood lymphoma.
 
-### Story Structure
+### _Story Structure_
 
 Set-up: 
 Fracking was hailed as a cleaner energy source– as a solution to climate change and air pollution
