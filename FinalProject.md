@@ -52,7 +52,7 @@ I plan to use these mainly as attention grabbers to show the audience what types
 
 ### _Possible Media Sources_
 I am hoping to include a few public-domain/ copyright free images such as the one below from Openverse. Ideally, I would love to include a clip from the documentary “Gasland” but I need to investigate whether that is possible.
-- [Bernice 1 and 2 wells with moisture flare - Evanson Place - Arnegard North Dakota - 2013-07-04 | Openverse]([url](https://openverse.org/image/68429da6-1cbb-4d0a-9307-80c40))
+- [North Dakota Fracking Wells Image]([url](https://openverse.org/image/68429da6-1cbb-4d0a-9307-80c40a6fbd3e?q=fracking%20well))
 - (See about rights to Gasland clip)
 
 ## Method and medium
