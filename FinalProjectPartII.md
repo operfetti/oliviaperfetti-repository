@@ -17,7 +17,7 @@ Then, I narrowed my focus to Southwest PA. I wanted to make this part of the sto
 
 I felt like the map I included adequately showed the number of fracking wells in SWPA, but I also wanted to show how often fracking companies have been violating the law. There's a perception that as time goes on and technology supposedly advances, companies are doing a better job of following regulations and keeping pollution out of our environment. However, that's clearly not the case.
 
-###Challenges
+### Challenges
 
 I have been struggling to build the visualization in Tableau. I downloaded an excel table from the Pa-DEP of all oil and gas violations in PA, and filtered to include only unconventional wells and SWPA counties. I then uploaded both this table and the spatial data on # wells to Tableau, and united these using a unique Site ID column. I used Spud Date (the date of drilling) for the column, and count of wells by spud date. I also added a calculation that counts the number of violations (using a field for a unique violation ID). However, the line it produced is not correct (it ultimately counts 7,000 some violations instead of 4,000 some). The calculation I used was Count([ViolationID]) and I set it to be a running total across spud date.
 
@@ -40,24 +40,22 @@ I want to reach a somewhat broad audience with my story (it probably won't reach
 My goals for this research are to:
 
 >Find out how easily understood my story and visualizations are
+- Were there any times that the language was difficult to understand or you noticed use of jargon?
+- What did you want to know more about after viewing?
 
 >See if the message of my story is working as intended
+- What is the main message you take away from this story?
+- Did you learn anything and/or change your opinions after viewing?	
 
 >See if there are gaps in the evidence I provided or places to cut/expand on content
+- Are you convinced that the story being told is correct? Did you feel there were any moments where I didn't provide enough evidence to back my claims?
+- What are you still confused about? (Either about the substance or from the data visualizations)
+- What, if anything, felt repetitive or irrelevant?
 
 >Get suggestions for improved readability, aesthetics, and clarity
+- How visually appealing was this story? Did you find your eye pulled in many directions? Did you feel like the theme matched the tone of the story?
+- Any other feedback or changes you'd suggest?
 
-The questions I asked were:
-
-1. What is the main message you take away from this story?			
-2. Did you learn anything and/or change your opinions after viewing?	
-3. Are you convinced that the story being told is correct? Did you feel there were any moments where I didn't provide enough evidence to back my claims?	
-4. What are you still confused about? (Either about the substance or from the data visualizations)
-5. Were there any times that the language was difficult to understand or you noticed use of jargon?
-6. What did you want to know more about after viewing?	
-7. What, if anything, felt repetitive or irrelevant?	
-8. How visually appealing was this story? Did you find your eye pulled in many directions? Did you feel like the theme matched the tone of the story?		
-9. Any other feedback or changes you'd suggest?		
 		
 ## Interview findings
 
