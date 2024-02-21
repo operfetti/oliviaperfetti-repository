@@ -1,5 +1,5 @@
 # Wireframes / storyboards
-I started building out a draft of my final project in ArcGIS StoryMaps. You can see the draft here: 
+I started building out a draft of my final project in ArcGIS StoryMaps. You can see the draft here: https://storymaps.arcgis.com/stories/cf5ab476dca242cd871dc464aaba0f40
 
 I started with the data. First, I downloaded a shapefile from the Pennsylvania Department of Environmental Protection showing oil and gas drilling sites across the state. In ArcGIS Pro, I created new layers showing only unconventional (fracking) wells, and restricting the geographic area to the 10-county region of Southwestern PA. I made some stylistic changes, such as making the point features orange and the background black.
 
