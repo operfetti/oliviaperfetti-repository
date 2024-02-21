@@ -22,7 +22,7 @@ Finally, I developed some policy recommendations based on the Grand Jury report 
 
 ## Target audience
 
-I want to reach a somewhat broad audience with my story (it probably won't reach the average person, but it might reach people interested in policy or environmental health who aren't professionals in these fields), so I selected three individuals wwith varying levels of expertise and age. The first is a young professional with policy expertise (but not in the field of environmental policy) and data visualization experience. The second is a middle-aged psychologist with no professional policy expertise. The third has expertise in environmental policy and advocacy, including fracking.
+I want to reach a somewhat broad audience with my story (it probably won't reach the average person, but it might reach people interested in policy or environmental health who aren't professionals in these fields), so I selected three individuals with varying levels of expertise and age. The first is a young professional with policy expertise (but not in the field of environmental policy) and data visualization experience. The second is a middle-aged psychologist with no professional policy expertise. The third has expertise in environmental policy and advocacy, including fracking.
 
 ## Interview script
 
