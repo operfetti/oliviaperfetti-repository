@@ -29,8 +29,11 @@ I want to reach a somewhat broad audience with my story (it probably won't reach
 My goals for this research are to:
 
 >Find out how easily understood my story and visualizations are
+
 >See if the message of my story is working as intended
+
 >See if there are gaps in the evidence I provided or places to cut/expand on content
+
 >Get suggestions for improved readability, aesthetics, and clarity
 
 The questions I asked were:
