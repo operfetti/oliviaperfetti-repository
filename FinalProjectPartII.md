@@ -21,6 +21,8 @@ I felt like the map I included adequately showed the number of fracking wells in
 
 I have been struggling to build the visualization in Tableau. I downloaded an excel table from the Pa-DEP of all oil and gas violations in PA, and filtered to include only unconventional wells and SWPA counties. I then uploaded both this table and the spatial data on # wells to Tableau, and united these using a unique Site ID column. I used Spud Date (the date of drilling) for the column, and count of wells by spud date. I also added a calculation that counts the number of violations (using a field for a unique violation ID). However, the line it produced is not correct (it ultimately counts 7,000 some violations instead of 4,000 some). The calculation I used was Count([ViolationID]) and I set it to be a running total across spud date.
 
+Update 2/22: After many hours I finally succeeded in making the Tableau graph! It just took a little more data cleaning in excel. I created new sheets and new columns with a function that takes only the month and year of Spud_Date and Violation_Date respectively. Then, I created a pivot table in each worksheet to show the count of violations in each month/year combination. That way, I was able to match the two sheets based on month/year and display the running total of both well count and violation count based on month year. I am relieved! 
+
 ### Resolution and Call to Action
 I moved on from this data visualization to focus on the rest of the story. Beyond plenty of literature and news stories, I haven't found much raw data on health impacts (this type of public health data is, apparently, notoriously difficult to find). But I am considering exploring other data on methane pollution and, possibly, cancer rates. (I am concerned that showing spatial data on cancer rates would be misleading without a comprehensive analysis on whether fracking is a factor, since higher cancer rates in SWPA could be due to many other factors too).
 
@@ -58,32 +60,30 @@ My goals for this research are to:
 
 		
 ## Interview findings
+So far, I've heard back from one out of my three interviewees-- so more to come! Here's what they said:
 
-| Questions               | Interview 1 (briefly describe) | Interview 2 | Interview 3 |
-|-------------------------|--------------------------------|-------------|-------------|
-| Question you asked here | Insightful feedback            |             |             |
-|                         |                                |             |             |
-|                         |                                |             |             |
-
-
+**1. What is the main message you take away from this story?**		
+Growing evidence suggests that fracking poses serious risks to our health and environment.	
+**2. Did you learn anything and/or change your opinions after viewing?**
+I learned that effects of fracking are far more serious to living things and the environment than I originally thought. The impacts are clearly connected to the introduction of fracking in an area, yet fracking continues to happen to due to other fiscal priorities.			
+**3. Are you convinced that the story being told is correct? Did you feel there were any moments where I didn't provide enough evidence to back my claims?**		
+I wanted more defintiive, big text, telling me the thesis of each section. For example, the first section describes the beginning of racking and the impacts of global warming, but I wanted one big quote at the end of that section outlining that "Later research would show that fracking produces about the same amount of global warming pollution as coal... if not more." That text was a little hidden in the paragraphs. Similarly, I wanted more clear connection between fracking wells in an area and the way that it impacted the people and environment (e.g., Why is the water in that one picture red? Why did the boy develop sores in the bath? Etc.)	
+**4. What are you still confused about? (Either about the substance or from the data visualizations)**		
+The interactive map of the US was cool (earlier in the presentation), but I wish my attention was directed to a specific part of the map. The blurb next to the map mentions levels spiked in 2005, but it's hard to navigate the map to see this spike without instruction.		
+**5. Were there any times that the language was difficult to understand or you noticed use of jargon?**	
+What is Ewing Sarcoma? What is lymphoma? What "kind" of cancer is it? Do people die from it		
+**6. What did you want to know more about after viewing?**		
+See question 3			
+**7. What, if anything, felt repetitive or irrelevant?**	
+n/a		
+**8. Any other feedback or changes you'd suggest?**	
+The news stories graphic is very powerful. I might feature each headline by itself for a few seconds as the reader scrolls so the headlines become more readable and dramatic. Is there a way to make each news article clip appear in succession rather than all at once?		
+		
 # Identified changes for Part III
-> Document the changes you plan on implementing next week to address any issues identified.  
+I still need to hear feedback from my other two contacts, but for now, I'm planning on implementing most of the changes suggested by the first interviewee. Here's an outline of my plan:
 
-Text here!
-
-| Research synthesis                       | Anticipated changes for Part III                                                |
-|------------------------------------------|---------------------------------------------------------------------------------|
-| Findings or observations from interviews | Describe what, if any changes you anticipate making to address the observation. |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-| ...add more rows as necessary            |                                                                                 |
-
-> ...include any final thoughts you have here. 
-
-Text here!
-
-# Moodboards / personas
-> If you did this optional part, include details here.  Otherwise remove this section
-
-Text here!
+-big text displaying thesis of each section
+-see if I can embed the first map to the graph instead of the map, since I reference the graph
+-build out the story of the man in WA county a bit further to make the connection with fracking clearer, since not everyone will listen to the audio clip
+-add more info on the seriousness of ewing sarcome and lymphoma
+-Change the news articles clip: I have concerns about copyright on this anyways (perhaps make this part text headlines instead?)
