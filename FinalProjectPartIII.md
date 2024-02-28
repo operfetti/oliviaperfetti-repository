@@ -40,7 +40,7 @@ Since my last draft, I was able to get feedback from another user, in addition t
 
 >little more attention to segue
 
-### This was fairly consistent with the feedback I received from my professor and teaching assistant:
+### This was fairly consistent with the feedback I received from my professor and teaching assistant, which followed the following themes:
 
 - Make sure to back up with research
 - Change the title
