@@ -1,6 +1,8 @@
 
 # Final Project Part I
 
+See [Final Project Part II](FinalProjectPartII.md) and [Final Project Part III](FinalProjectPartIII.md)
+
 ## Outline
 
 ### _Summary_
