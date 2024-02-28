@@ -83,3 +83,10 @@ I changed out some images to ensure that they were licensed for reuse with attri
 I re-embedded the first graph, Gas production, to the chart view so that the viewer wouldn't need to click through.
 
 I added a link to a community group doing good work on this issue in the call to action.
+
+## References
+
+[View my references here](https://docs.google.com/document/d/1JzYLWQVs7I_mjB44ydBzXQZD4fNwFrrZ/edit?usp=sharing&ouid=107682767264357825606&rtpof=true&sd=true)
+
+
+
