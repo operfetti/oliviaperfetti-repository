@@ -1,3 +1,5 @@
+See [Final Project Part I](FinalProjectPartI.md) and [Final Project Part III](FinalProjectPartIII.md)
+
 # Wireframes / storyboards
 
 I started building out a draft of my final project in ArcGIS StoryMaps. You can see the draft here: [TheNewCancerAlley](https://storymaps.arcgis.com/stories/cf5ab476dca242cd871dc464aaba0f40)
