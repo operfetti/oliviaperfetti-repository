@@ -18,3 +18,7 @@ After I graduate, I'm interested in working in local government (Allegheny Count
 ### [Final Project Part I](FinalProject.md)
 
 ### [Final Project Part II](FinalProjectPartII.md)
+
+### [Final Project Part III](FinalProjectPartIII.md)
+
+### [Poisoned: A story of fracking in Southwest PA](https://arcg.is/0TXz81)
