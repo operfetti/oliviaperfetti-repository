@@ -2,6 +2,8 @@
 
 You can view the final product here! https://arcg.is/0TXz81
 
+See also [Final Project Part I](FinalProjectPartI.md) and [Final Project Part II](FinalProjectPartII.md)
+
 ## Further user feedback
 
 Since my last draft, I was able to get feedback from another user, in addition to my TSWD professor and teaching assistant. 
